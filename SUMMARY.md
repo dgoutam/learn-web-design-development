@@ -17,5 +17,5 @@
 
 * [Client Briefing Template](templates-resources/client-briefing-template.md)
 * [About the Guide](about-the-guide.md)
-* [How To Contribute](how-to-contribute.md)
+* [How to Contribute](how-to-contribute.md)
 
