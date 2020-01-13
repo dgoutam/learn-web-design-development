@@ -12,6 +12,12 @@ But over the years I have been asked by many of friends, colleagues, aspiring st
 
 I decided to arrange one and to help all aspiring persons to go through it and start learning web design and  development. 
 
+## Learning Path
+
+{% embed url="https://coggle.it/diagram/Xhcubq6K4nV39gOX/t/website-checkered\_flag/b8968da3d517e129bb93108146c72bb7767aaafbcc2738b36648bbd6a94b8937" caption="Use CTRL+/ - to zoom-in or zoom-out" %}
+
+
+
 Please feel free to contact me and let me know how you think about this course and your views and comments to improve it. 
 
 You can reach me by social media or email.
