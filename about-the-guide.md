@@ -30,7 +30,7 @@ You can reach me by social media or email.
 If you want to discuss with me online about this course catch me on Slack
 
 {% hint style="info" %}
-If you want to discuss with me online about this course catch me on Slack [https://**goutamdey.slack.com**](https://goutamdey.slack.com) 
+If you want to discuss with me online about this course catch me on Slack at [https://**goutamdey.slack.com**](https://goutamdey.slack.com)  and check channel **\#web-design-development**
 {% endhint %}
 
 
