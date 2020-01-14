@@ -36,13 +36,13 @@ If you want to discuss with me online about this course catch me on Slack at [ht
 ## References
 
 {% tabs %}
-{% tab title="Sites" %}
+{% tab title="Online" %}
 * [https://material.io/](https://material.io/)
 * [https://convertkit.com/color-theory-for-bloggers](https://convertkit.com/color-theory-for-bloggers)
 * [https://www.canva.com/colors/color-wheel/](https://www.canva.com/colors/color-wheel/)
 {% endtab %}
 
-{% tab title="More Sites" %}
+{% tab title="Books" %}
 
 {% endtab %}
 {% endtabs %}
