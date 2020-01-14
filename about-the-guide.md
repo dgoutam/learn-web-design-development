@@ -33,7 +33,19 @@ If you want to discuss with me online about this course catch me on Slack
 If you want to discuss with me online about this course catch me on Slack at [https://**goutamdey.slack.com**](https://goutamdey.slack.com)  and check channel **\#web-design-development**
 {% endhint %}
 
+## References
 
+{% tabs %}
+{% tab title="Sites" %}
+* [https://material.io/](https://material.io/)
+* [https://convertkit.com/color-theory-for-bloggers](https://convertkit.com/color-theory-for-bloggers)
+* [https://www.canva.com/colors/color-wheel/](https://www.canva.com/colors/color-wheel/)
+{% endtab %}
+
+{% tab title="More Sites" %}
+
+{% endtab %}
+{% endtabs %}
 
 
 
