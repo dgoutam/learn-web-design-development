@@ -10,8 +10,10 @@
     * [Design Elements](design/commercial-design/design-elements.md)
     * [Accessibility](design/commercial-design/accessibility.md)
   * [Tools](design/tools.md)
-* [Development](development-1/README.md)
-  * [Untitled](development-1/untitled.md)
+* [Development](development-1.md)
+* [Deployment](deployment/README.md)
+  * [Linux Basics & SSH](deployment/linux-basics-and-ssh.md)
+  * [FTP \(File Transfer Protocol\)](deployment/ftp-file-transfer-protocol.md)
 
 ## Templates/Resources
 
