@@ -52,6 +52,8 @@ Linux CLI is nothing but a terminal window on Linux based OS where user interact
 |  ****apt-get | Use **apt** to work with packages in the Linux command line. Use **apt-get** to install packages. This requires root privileges, so use the **sudo** command with it.  |
 | chmod |  Use **chmod** to make a file executable and to change the permissions granted to it in Linux.  |
 
+## 
+
 ## SSH Command
 
 Almost every Unix and Linux system includes the **`ssh`** command. This command is used to start the SSH client program that enables secure connection to the SSH server on a remote machine. The `ssh` command is used from logging into the remote machine, transferring files between the two machines, and for executing commands on the remote machine.
