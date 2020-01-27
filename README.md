@@ -6,6 +6,12 @@ description: >-
 
 # Home
 
+## Email New Letter 
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLScbxAJaTM\_XNa9I041kjoedWPKf2xpe3OYlZkg2rdPozBdWMw/viewform" %}
+
+
+
 ## What you need to launch a website
 
 In this checklist we will try to understand the essential items to launch a website successfully.
