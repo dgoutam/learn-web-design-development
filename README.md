@@ -1,7 +1,7 @@
 ---
 description: >-
-  This guide is for learning web design and development for beginners. The
-  document is always in-progress, so do come back again.
+  A free learning guide of web design and web development for beginners with free resources.
+  Document is always in-progress, will remain free for forever, so do come back again.
 ---
 
 # Home
